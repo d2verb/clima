@@ -1,6 +1,10 @@
 # clima
 
-A new Flutter project.
+A simple weather app. This is one of the sample projects of video course [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart).
+
+<center>
+<img src='screenshot.png' height=500px/>
+</center>
 
 ## Getting Started
 
